@@ -1,19 +1,20 @@
-# PersonalFinanceHealthChecker
-# Personal Finance Health Checker
+# Hi, I'm Sugashri 👋
 
-A Java Servlet-based web application that analyzes a user's monthly income, expenses, savings, and financial health.
+🎓 3rd Year Cyber Security Student
+💻 Aspiring Software Engineer
+☕ Java Developer
+🔒 Cyber Security Enthusiast
 
-## Team Members
-
-- Team Lead
-- Frontend Developer
-- Backend Developer
-
-## Technologies
-
+## Skills
 - Java
+- SQL
+- Git & GitHub
+- HTML/CSS
 - Servlets
-- HTML
-- CSS
-- GitHub
-- Apache Tomcat
+- Maven
+
+## Projects
+- Personal Finance Health Checker
+
+## Connect
+LinkedIn: <https://www.linkedin.com/in/sugashri1112>
